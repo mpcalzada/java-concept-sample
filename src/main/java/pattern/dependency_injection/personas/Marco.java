@@ -1,4 +1,6 @@
-package pattern.dependency_injection;
+package pattern.dependency_injection.personas;
+
+import pattern.dependency_injection.interaccion.Estado;
 
 /**
  * {@link Marco}

@@ -1,4 +1,4 @@
-package pattern.dependency_injection;
+package pattern.dependency_injection.interaccion;
 
 public interface Estado
 {
