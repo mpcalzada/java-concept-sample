@@ -32,13 +32,16 @@ public class App
         //System.out.println("Sockets with kslib Java Sample");
         //kslib.comunicaciones.Start.start();
 
-        System.out.println("Sockets with kslib Java Sample");
-        pattern.dependency_injection.Start.start();
+        //System.out.println("Sockets with kslib Java Sample");
+        //pattern.dependency_injection.Start.start();
 
         //System.out.println("Quartz interruption Java Sample");
         //quartz.Start.start();
 
         //System.out.println("Executor Service Java Sample");
         //executors.workers.Start.start();
+
+        System.out.println("Data Structures Java Sample");
+        estructuras.Start.start();
     }
 }
